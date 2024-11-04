@@ -15,3 +15,6 @@ This organization includes the following source code of the papers:
   * [sdradrustffi](https://github.com/secure-rewind-and-discard/sdradrustffi) crate
   * [sdradrustffi benchmark code](https://github.com/secure-rewind-and-discard/secure-rewind-and-discard-rust-ffi)
   * [Optimizited version of Abomonation crates](https://github.com/secure-rewind-and-discard/abomonation)
+* [Secure Rewind and Discard on Arm Morello](https://arxiv.org/pdf/2407.04757)
+  * [cheri-sdrad](https://github.com/secure-rewind-and-discard/cheri-sdrad)
+  * [cheri-nginx-bench](https://github.com/secure-rewind-and-discard/cheri-nginx)
